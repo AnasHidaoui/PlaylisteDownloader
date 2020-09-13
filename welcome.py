@@ -22,7 +22,7 @@ class Welcome :
                      |  '--'  /'  '-'  '|   ,'.   ||  | `   | 
                      `-------'  `-----' '--'   '--'`--'  `--' 
                         By : HIDAOUI ANAS / Augaust 5 2020 /
-                         https://github.com/rootAnashidaoui
+                         https://github.com/AnasHidaoui
         """
         print(cs(wel, "purple4").bold())
     def goodby(self) :
@@ -34,7 +34,7 @@ class Welcome :
                         |      By : HIDAOUI ANAS         |
                         |        versio: 3.0.4           |        
                         +--------------------------------+
-                        | www.rootAnashidaoui@githab.com |
+                        | https://github.com/AnasHidaoui |
                         |       Augaust 5 2020           |
                         ==================================
         """
